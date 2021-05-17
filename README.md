@@ -1,7 +1,3 @@
-### commapp
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Cross-platform messaging app using React Native, Firebase &amp; Expo in TypeScript
